@@ -1,6 +1,6 @@
 <?php
 
-namespace Vicchi\GeoJson;
+namespace MediaVariance\GeoJson;
 
 class Rewind {
     static public function rewind($geojson, $enforce_rfc7946=true) {

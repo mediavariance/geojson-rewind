@@ -1,6 +1,6 @@
 <?php
 
-namespace Vicchi\GeoJson;
+namespace MediaVariance\GeoJson;
 
 class WGS84 {
     const RADIUS = 6378137;

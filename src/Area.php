@@ -1,6 +1,6 @@
 <?php
 
-namespace Vicchi\GeoJson;
+namespace MediaVariance\GeoJson;
 
 class Area {
     static function geometry($geojson) {
